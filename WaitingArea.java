@@ -63,11 +63,4 @@ public class WaitingArea {
     public synchronized Boolean isEmpty() {
         return waitingCustomers.size() == 0;
     }
-
-    /**
-     * @return true if full
-     */
-    public synchronized Boolean isFull() {
-        return waitingCustomers.size() == maxCapacity;
-    }
 }
