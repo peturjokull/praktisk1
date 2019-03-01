@@ -61,11 +61,11 @@ public class SushiBar {
         } catch (Exception e) {
             e.printStackTrace();
         }
-        SushiBar.write("The SushiBar is closing!");
-        SushiBar.write("Printing Out key figures down below");
-        SushiBar.write("Total takeaways: " + SushiBar.takeawayOrders.get());
-        SushiBar.write("Total bar orders: " + SushiBar.servedOrders.get());
-        SushiBar.write("Total orders: " + SushiBar.totalOrders.get());
+        write("The SushiBar is closing!");
+        write("Printing Out key figures down below");
+        write("Total takeaways: " + SushiBar.takeawayOrders.get());
+        write("Total bar orders: " + SushiBar.servedOrders.get());
+        write("Total orders: " + SushiBar.totalOrders.get());
 
         // int take = SushiBar.takeawayOrders.get();
         // int bar = SushiBar.servedOrders.get();
