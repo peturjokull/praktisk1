@@ -63,9 +63,11 @@ public class SushiBar {
         }
         write("The SushiBar is closing!");
         write("Printing Out key figures down below");
-        write("Total takeaways: " + SushiBar.takeawayOrders.get());
-        write("Total bar orders: " + SushiBar.servedOrders.get());
-        write("Total orders: " + SushiBar.totalOrders.get());
+        write("Total customers are " + customerCounter.get());
+        write("Total takeaways: " + takeawayOrders.get());
+        write("Total bar orders: " + servedOrders.get());
+        write("Total orders: " + totalOrders.get());
+        //write("Average orders per customer is " + (double)(totalOrders.get()/Customer.getCustomerCount()));
 
         // int take = SushiBar.takeawayOrders.get();
         // int bar = SushiBar.servedOrders.get();
