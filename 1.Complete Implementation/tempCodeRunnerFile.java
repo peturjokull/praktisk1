@@ -1,0 +1,1 @@
+numOrders = (r.nextInt(SushiBar.maxOrder)) + 1;

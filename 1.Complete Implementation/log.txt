@@ -1,0 +1,324 @@
+13:03:22:795, Thread-0: Customer 1 is now created
+13:03:22:843, Thread-2: Customer 1 is now waitered
+13:03:22:900, Thread-2: Customer 1 just ordered 
+13:03:22:903, Thread-2: Customer 1 is now eating
+13:03:22:944, Thread-0: Customer 2 is now created
+13:03:22:946, Thread-3: Customer 2 is now waitered
+13:03:23:01, Thread-3: Customer 2 just ordered 
+13:03:23:02, Thread-3: Customer 2 is now eating
+13:03:23:50, Thread-0: Customer 3 is now created
+13:03:23:52, Thread-6: Customer 3 is now waitered
+13:03:23:105, Thread-6: Customer 3 just ordered 
+13:03:23:106, Thread-6: Customer 3 is now eating
+13:03:23:152, Thread-0: Customer 4 is now created
+13:03:23:153, Thread-8: Customer 4 is now waitered
+13:03:23:205, Thread-8: Customer 4 just ordered 
+13:03:23:206, Thread-8: Customer 4 is now eating
+13:03:23:257, Thread-0: Customer 5 is now created
+13:03:23:258, Thread-4: Customer 5 is now waitered
+13:03:23:312, Thread-4: Customer 5 just ordered 
+13:03:23:313, Thread-4: Customer 5 is now eating
+13:03:23:360, Thread-0: Customer 6 is now created
+13:03:23:361, Thread-7: Customer 6 is now waitered
+13:03:23:413, Thread-7: Customer 6 just ordered 
+13:03:23:414, Thread-7: Customer 6 is now eating
+13:03:23:462, Thread-0: Customer 7 is now created
+13:03:23:463, Thread-5: Customer 7 is now waitered
+13:03:23:518, Thread-5: Customer 7 just ordered 
+13:03:23:519, Thread-5: Customer 7 is now eating
+13:03:23:568, Thread-0: Customer 8 is now created
+13:03:23:569, Thread-9: Customer 8 is now waitered
+13:03:23:624, Thread-9: Customer 8 just ordered 
+13:03:23:625, Thread-9: Customer 8 is now eating
+13:03:23:675, Thread-0: Customer 9 is now created
+13:03:23:777, Thread-0: Customer 10 is now created
+13:03:23:880, Thread-0: Customer 11 is now created
+13:03:23:985, Thread-0: Customer 12 is now created
+13:03:24:90, Thread-0: Customer 13 is now created
+13:03:24:195, Thread-0: Customer 14 is now created
+13:03:24:301, Thread-0: Customer 15 is now created
+13:03:24:403, Thread-0: Customer 16 is now created
+13:03:24:506, Thread-0: Customer 17 is now created
+13:03:24:613, Thread-0: Customer 18 is now created
+13:03:24:715, Thread-0: Customer 19 is now created
+13:03:24:821, Thread-0: Customer 20 is now created
+13:03:24:908, Thread-2: Customer 1 has finished eating
+13:03:24:908, Thread-2: Customer 9 is now waitered
+13:03:24:927, Thread-0: Customer 21 is now created
+13:03:24:960, Thread-2: Customer 9 just ordered 
+13:03:24:961, Thread-2: Customer 9 is now eating
+13:03:25:04, Thread-3: Customer 2 has finished eating
+13:03:25:04, Thread-3: Customer 10 is now waitered
+13:03:25:28, Thread-0: Customer 22 is now created
+13:03:25:55, Thread-3: Customer 10 just ordered 
+13:03:25:56, Thread-3: Customer 10 is now eating
+13:03:25:109, Thread-6: Customer 3 has finished eating
+13:03:25:110, Thread-6: Customer 11 is now waitered
+13:03:25:132, Thread-0: Customer 23 is now created
+13:03:25:163, Thread-6: Customer 11 just ordered 
+13:03:25:164, Thread-6: Customer 11 is now eating
+13:03:25:210, Thread-8: Customer 4 has finished eating
+13:03:25:211, Thread-8: Customer 12 is now waitered
+13:03:25:237, Thread-0: Customer 24 is now created
+13:03:25:262, Thread-8: Customer 12 just ordered 
+13:03:25:263, Thread-8: Customer 12 is now eating
+13:03:25:317, Thread-4: Customer 5 has finished eating
+13:03:25:318, Thread-4: Customer 13 is now waitered
+13:03:25:339, Thread-0: Customer 25 is now created
+13:03:25:371, Thread-4: Customer 13 just ordered 
+13:03:25:371, Thread-4: Customer 13 is now eating
+13:03:25:419, Thread-7: Customer 6 has finished eating
+13:03:25:420, Thread-7: Customer 14 is now waitered
+13:03:25:445, Thread-0: Customer 26 is now created
+13:03:25:471, Thread-7: Customer 14 just ordered 
+13:03:25:472, Thread-7: Customer 14 is now eating
+13:03:25:520, Thread-5: Customer 7 has finished eating
+13:03:25:521, Thread-5: Customer 15 is now waitered
+13:03:25:551, Thread-0: Customer 27 is now created
+13:03:25:572, Thread-5: Customer 15 just ordered 
+13:03:25:573, Thread-5: Customer 15 is now eating
+13:03:25:629, Thread-9: Customer 8 has finished eating
+13:03:25:630, Thread-9: Customer 16 is now waitered
+13:03:25:654, Thread-0: Customer 28 is now created
+13:03:25:685, Thread-9: Customer 16 just ordered 
+13:03:25:687, Thread-9: Customer 16 is now eating
+13:03:25:755, Thread-0: Customer 29 is now created
+13:03:25:860, Thread-0: Customer 30 is now created
+13:03:25:965, Thread-0: Customer 31 is now created
+13:03:26:71, Thread-0: Customer 32 is now created
+13:03:26:962, Thread-2: Customer 9 has finished eating
+13:03:26:963, Thread-2: Customer 17 is now waitered
+13:03:27:18, Thread-2: Customer 17 just ordered 
+13:03:27:19, Thread-2: Customer 17 is now eating
+13:03:27:62, Thread-3: Customer 10 has finished eating
+13:03:27:63, Thread-3: Customer 18 is now waitered
+13:03:27:118, Thread-3: Customer 18 just ordered 
+13:03:27:119, Thread-3: Customer 18 is now eating
+13:03:27:168, Thread-6: Customer 11 has finished eating
+13:03:27:169, Thread-6: Customer 19 is now waitered
+13:03:27:222, Thread-6: Customer 19 just ordered 
+13:03:27:222, Thread-6: Customer 19 is now eating
+13:03:27:267, Thread-8: Customer 12 has finished eating
+13:03:27:268, Thread-8: Customer 20 is now waitered
+13:03:27:323, Thread-8: Customer 20 just ordered 
+13:03:27:324, Thread-8: Customer 20 is now eating
+13:03:27:375, Thread-4: Customer 13 has finished eating
+13:03:27:376, Thread-4: Customer 21 is now waitered
+13:03:27:429, Thread-4: Customer 21 just ordered 
+13:03:27:430, Thread-4: Customer 21 is now eating
+13:03:27:475, Thread-7: Customer 14 has finished eating
+13:03:27:476, Thread-7: Customer 22 is now waitered
+13:03:27:530, Thread-7: Customer 22 just ordered 
+13:03:27:531, Thread-7: Customer 22 is now eating
+13:03:27:579, Thread-5: Customer 15 has finished eating
+13:03:27:579, Thread-5: Customer 23 is now waitered
+13:03:27:631, Thread-5: Customer 23 just ordered 
+13:03:27:631, Thread-5: Customer 23 is now eating
+13:03:27:691, Thread-9: Customer 16 has finished eating
+13:03:27:692, Thread-9: Customer 24 is now waitered
+13:03:27:746, Thread-9: Customer 24 just ordered 
+13:03:27:747, Thread-9: Customer 24 is now eating
+13:03:29:20, Thread-2: Customer 17 has finished eating
+13:03:29:22, Thread-2: Customer 25 is now waitered
+13:03:29:78, Thread-2: Customer 25 just ordered 
+13:03:29:78, Thread-2: Customer 25 is now eating
+13:03:29:120, Thread-3: Customer 18 has finished eating
+13:03:29:121, Thread-3: Customer 26 is now waitered
+13:03:29:174, Thread-3: Customer 26 just ordered 
+13:03:29:175, Thread-3: Customer 26 is now eating
+13:03:29:225, Thread-6: Customer 19 has finished eating
+13:03:29:226, Thread-6: Customer 27 is now waitered
+13:03:29:280, Thread-6: Customer 27 just ordered 
+13:03:29:281, Thread-6: Customer 27 is now eating
+13:03:29:328, Thread-8: Customer 20 has finished eating
+13:03:29:329, Thread-8: Customer 28 is now waitered
+13:03:29:380, Thread-8: Customer 28 just ordered 
+13:03:29:381, Thread-8: Customer 28 is now eating
+13:03:29:435, Thread-4: Customer 21 has finished eating
+13:03:29:435, Thread-4: Customer 29 is now waitered
+13:03:29:488, Thread-4: Customer 29 just ordered 
+13:03:29:488, Thread-4: Customer 29 is now eating
+13:03:29:536, Thread-7: Customer 22 has finished eating
+13:03:29:537, Thread-7: Customer 30 is now waitered
+13:03:29:591, Thread-7: Customer 30 just ordered 
+13:03:29:592, Thread-7: Customer 30 is now eating
+13:03:29:636, Thread-5: Customer 23 has finished eating
+13:03:29:637, Thread-5: Customer 31 is now waitered
+13:03:29:691, Thread-5: Customer 31 just ordered 
+13:03:29:692, Thread-5: Customer 31 is now eating
+13:03:29:750, Thread-9: Customer 24 has finished eating
+13:03:31:83, Thread-2: Customer 25 has finished eating
+13:03:31:179, Thread-3: Customer 26 has finished eating
+13:03:31:284, Thread-6: Customer 27 has finished eating
+13:03:31:382, Thread-8: Customer 28 has finished eating
+13:03:31:489, Thread-4: Customer 29 has finished eating
+13:03:31:595, Thread-7: Customer 30 has finished eating
+13:03:31:696, Thread-5: Customer 31 has finished eating
+13:03:31:697, The SushiBar is closing!
+13:03:31:698, Printing Out key figures down below
+13:03:31:706, Total customers are 31
+13:03:31:707, Total takeaways: 93
+13:03:31:708, Total bar orders: 106
+13:03:31:709, Total orders: 199
+13:04:24:419, Thread-0: Customer 1 is now created
+13:04:24:477, Thread-2: Customer 1 is now waitered
+13:04:24:534, Thread-2: Customer 1 just ordered 
+13:04:24:535, Thread-2: Customer 1 is now eating
+13:04:24:575, Thread-0: Customer 2 is now created
+13:04:24:576, Thread-3: Customer 2 is now waitered
+13:04:24:627, Thread-3: Customer 2 just ordered 
+13:04:24:628, Thread-3: Customer 2 is now eating
+13:04:24:679, Thread-0: Customer 3 is now created
+13:04:24:680, Thread-6: Customer 3 is now waitered
+13:04:24:731, Thread-6: Customer 3 just ordered 
+13:04:24:732, Thread-6: Customer 3 is now eating
+13:04:24:782, Thread-0: Customer 4 is now created
+13:04:24:783, Thread-8: Customer 4 is now waitered
+13:04:24:836, Thread-8: Customer 4 just ordered 
+13:04:24:836, Thread-8: Customer 4 is now eating
+13:04:24:886, Thread-0: Customer 5 is now created
+13:04:24:887, Thread-4: Customer 5 is now waitered
+13:04:24:942, Thread-4: Customer 5 just ordered 
+13:04:24:943, Thread-4: Customer 5 is now eating
+13:04:24:987, Thread-0: Customer 6 is now created
+13:04:24:988, Thread-7: Customer 6 is now waitered
+13:04:25:39, Thread-7: Customer 6 just ordered 
+13:04:25:40, Thread-7: Customer 6 is now eating
+13:04:25:88, Thread-0: Customer 7 is now created
+13:04:25:89, Thread-5: Customer 7 is now waitered
+13:04:25:145, Thread-5: Customer 7 just ordered 
+13:04:25:145, Thread-5: Customer 7 is now eating
+13:04:25:191, Thread-0: Customer 8 is now created
+13:04:25:191, Thread-9: Customer 8 is now waitered
+13:04:25:245, Thread-9: Customer 8 just ordered 
+13:04:25:245, Thread-9: Customer 8 is now eating
+13:04:25:292, Thread-0: Customer 9 is now created
+13:04:25:393, Thread-0: Customer 10 is now created
+13:04:25:494, Thread-0: Customer 11 is now created
+13:04:25:599, Thread-0: Customer 12 is now created
+13:04:25:703, Thread-0: Customer 13 is now created
+13:04:25:805, Thread-0: Customer 14 is now created
+13:04:25:906, Thread-0: Customer 15 is now created
+13:04:26:10, Thread-0: Customer 16 is now created
+13:04:26:113, Thread-0: Customer 17 is now created
+13:04:26:220, Thread-0: Customer 18 is now created
+13:04:26:320, Thread-0: Customer 19 is now created
+13:04:26:424, Thread-0: Customer 20 is now created
+13:04:26:526, Thread-0: Customer 21 is now created
+13:04:26:537, Thread-2: Customer 1 has finished eating
+13:04:26:539, Thread-2: Customer 9 is now waitered
+13:04:26:593, Thread-2: Customer 9 just ordered 
+13:04:26:593, Thread-2: Customer 9 is now eating
+13:04:26:630, Thread-0: Customer 22 is now created
+13:04:26:632, Thread-3: Customer 2 has finished eating
+13:04:26:632, Thread-3: Customer 10 is now waitered
+13:04:26:687, Thread-3: Customer 10 just ordered 
+13:04:26:687, Thread-3: Customer 10 is now eating
+13:04:26:734, Thread-0: Customer 23 is now created
+13:04:26:736, Thread-6: Customer 3 has finished eating
+13:04:26:737, Thread-6: Customer 11 is now waitered
+13:04:26:787, Thread-6: Customer 11 just ordered 
+13:04:26:788, Thread-6: Customer 11 is now eating
+13:04:26:836, Thread-0: Customer 24 is now created
+13:04:26:838, Thread-8: Customer 4 has finished eating
+13:04:26:838, Thread-8: Customer 12 is now waitered
+13:04:26:892, Thread-8: Customer 12 just ordered 
+13:04:26:892, Thread-8: Customer 12 is now eating
+13:04:26:938, Thread-0: Customer 25 is now created
+13:04:26:945, Thread-4: Customer 5 has finished eating
+13:04:26:945, Thread-4: Customer 13 is now waitered
+13:04:26:998, Thread-4: Customer 13 just ordered 
+13:04:26:999, Thread-4: Customer 13 is now eating
+13:04:27:39, Thread-0: Customer 26 is now created
+13:04:27:41, Thread-7: Customer 6 has finished eating
+13:04:27:41, Thread-7: Customer 14 is now waitered
+13:04:27:94, Thread-7: Customer 14 just ordered 
+13:04:27:94, Thread-7: Customer 14 is now eating
+13:04:27:142, Thread-0: Customer 27 is now created
+13:04:27:148, Thread-5: Customer 7 has finished eating
+13:04:27:149, Thread-5: Customer 15 is now waitered
+13:04:27:203, Thread-5: Customer 15 just ordered 
+13:04:27:203, Thread-5: Customer 15 is now eating
+13:04:27:244, Thread-0: Customer 28 is now created
+13:04:27:248, Thread-9: Customer 8 has finished eating
+13:04:27:249, Thread-9: Customer 16 is now waitered
+13:04:27:303, Thread-9: Customer 16 just ordered 
+13:04:27:304, Thread-9: Customer 16 is now eating
+13:04:27:349, Thread-0: Customer 29 is now created
+13:04:27:450, Thread-0: Customer 30 is now created
+13:04:27:554, Thread-0: Customer 31 is now created
+13:04:27:660, Thread-0: Customer 32 is now created
+13:04:28:594, Thread-2: Customer 9 has finished eating
+13:04:28:596, Thread-2: Customer 17 is now waitered
+13:04:28:649, Thread-2: Customer 17 just ordered 
+13:04:28:650, Thread-2: Customer 17 is now eating
+13:04:28:690, Thread-3: Customer 10 has finished eating
+13:04:28:691, Thread-3: Customer 18 is now waitered
+13:04:28:742, Thread-3: Customer 18 just ordered 
+13:04:28:742, Thread-3: Customer 18 is now eating
+13:04:28:790, Thread-6: Customer 11 has finished eating
+13:04:28:791, Thread-6: Customer 19 is now waitered
+13:04:28:843, Thread-6: Customer 19 just ordered 
+13:04:28:844, Thread-6: Customer 19 is now eating
+13:04:28:897, Thread-8: Customer 12 has finished eating
+13:04:28:897, Thread-8: Customer 20 is now waitered
+13:04:28:949, Thread-8: Customer 20 just ordered 
+13:04:28:949, Thread-8: Customer 20 is now eating
+13:04:29:04, Thread-4: Customer 13 has finished eating
+13:04:29:04, Thread-4: Customer 21 is now waitered
+13:04:29:58, Thread-4: Customer 21 just ordered 
+13:04:29:58, Thread-4: Customer 21 is now eating
+13:04:29:100, Thread-7: Customer 14 has finished eating
+13:04:29:100, Thread-7: Customer 22 is now waitered
+13:04:29:151, Thread-7: Customer 22 just ordered 
+13:04:29:151, Thread-7: Customer 22 is now eating
+13:04:29:206, Thread-5: Customer 15 has finished eating
+13:04:29:207, Thread-5: Customer 23 is now waitered
+13:04:29:259, Thread-5: Customer 23 just ordered 
+13:04:29:259, Thread-5: Customer 23 is now eating
+13:04:29:309, Thread-9: Customer 16 has finished eating
+13:04:29:310, Thread-9: Customer 24 is now waitered
+13:04:29:361, Thread-9: Customer 24 just ordered 
+13:04:29:361, Thread-9: Customer 24 is now eating
+13:04:30:651, Thread-2: Customer 17 has finished eating
+13:04:30:652, Thread-2: Customer 25 is now waitered
+13:04:30:704, Thread-2: Customer 25 just ordered 
+13:04:30:705, Thread-2: Customer 25 is now eating
+13:04:30:747, Thread-3: Customer 18 has finished eating
+13:04:30:748, Thread-3: Customer 26 is now waitered
+13:04:30:803, Thread-3: Customer 26 just ordered 
+13:04:30:804, Thread-3: Customer 26 is now eating
+13:04:30:849, Thread-6: Customer 19 has finished eating
+13:04:30:849, Thread-6: Customer 27 is now waitered
+13:04:30:901, Thread-6: Customer 27 just ordered 
+13:04:30:901, Thread-6: Customer 27 is now eating
+13:04:30:951, Thread-8: Customer 20 has finished eating
+13:04:30:952, Thread-8: Customer 28 is now waitered
+13:04:31:03, Thread-8: Customer 28 just ordered 
+13:04:31:04, Thread-8: Customer 28 is now eating
+13:04:31:62, Thread-4: Customer 21 has finished eating
+13:04:31:63, Thread-4: Customer 29 is now waitered
+13:04:31:118, Thread-4: Customer 29 just ordered 
+13:04:31:119, Thread-4: Customer 29 is now eating
+13:04:31:155, Thread-7: Customer 22 has finished eating
+13:04:31:156, Thread-7: Customer 30 is now waitered
+13:04:31:209, Thread-7: Customer 30 just ordered 
+13:04:31:209, Thread-7: Customer 30 is now eating
+13:04:31:265, Thread-5: Customer 23 has finished eating
+13:04:31:265, Thread-5: Customer 31 is now waitered
+13:04:31:316, Thread-5: Customer 31 just ordered 
+13:04:31:317, Thread-5: Customer 31 is now eating
+13:04:31:366, Thread-9: Customer 24 has finished eating
+13:04:32:709, Thread-2: Customer 25 has finished eating
+13:04:32:809, Thread-3: Customer 26 has finished eating
+13:04:32:902, Thread-6: Customer 27 has finished eating
+13:04:33:09, Thread-8: Customer 28 has finished eating
+13:04:33:122, Thread-4: Customer 29 has finished eating
+13:04:33:210, Thread-7: Customer 30 has finished eating
+13:04:33:318, Thread-5: Customer 31 has finished eating
+13:04:33:318, The SushiBar is closing!
+13:04:33:319, Printing Out key figures down below
+13:04:33:323, Total customers are 31
+13:04:33:324, Total takeaways: 74
+13:04:33:325, Total bar orders: 89
+13:04:33:326, Total orders: 163

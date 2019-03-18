@@ -29,6 +29,7 @@ public class WaitingArea {
         while (waitingCustomers.size() == maxCapacity) {
             try {
                 this.wait();
+                // System.out.println(Thread.currentThread().getName() + " was put to sleep");
             } catch (Exception e) {
                 System.err.println(e);
             }
